@@ -1,5 +1,5 @@
 const result = (double) => {
-  return double * 10;
+  return double * double;
 }
 
 console.log(result(10));
